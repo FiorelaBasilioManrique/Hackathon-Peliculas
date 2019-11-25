@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0px;
+  }
+
+  body{
+    margin: 0px;
+    padding: 0px;
+  }
+  .hide{
+    display: none !important;
+  }
+
+  .container-fluid{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    margin-top: 1%;
+}
+
+.estilos{
+  margin-top: 1%;
+}
